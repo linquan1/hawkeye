@@ -1,0 +1,14 @@
+.idea/
+*.iml
+**/*.iml
+**/target
+.idea/*
+*.log
+.idea/*.xml
+
+
+/.idea/vcs.xml
+/.idea/misc.xml
+
+# Mac-specific directory that no other operating system needs.
+.DS_Store
